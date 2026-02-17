@@ -284,13 +284,17 @@ npx remotion render AIShowcaseMaster out/video.mp4
 ```
 
 ---
-# 🎬 Video
+# 🎬 Final Çıktı
 
-Oluşturulan çıktı:
+Bu proje kapsamında üretilen nihai video çıktısı repository içerisinde yer almaktadır:
 
 /video/video.mp4
 
-**Doğrudan depodan indirip izleyebilirsiniz.**
+• Çözünürlük: 1920x1080 (Full HD)  
+• Süre: Yaklaşık 70 saniye  
+• Render Motoru: Remotion  
+• Geliştirme Dili: TypeScript  
+• Kodlanmış Video Mimarisi
 
 ---
 # 📦 Teslim İçeriği
