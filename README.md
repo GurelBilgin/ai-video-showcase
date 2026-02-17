@@ -288,7 +288,7 @@ npx remotion render AIShowcaseMaster out/video.mp4
 
 Oluşturulan çıktı:
 
-/video/final.mp4
+/video/video.mp4
 
 **Doğrudan depodan indirip izleyebilirsiniz.**
 
