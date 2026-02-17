@@ -1,4 +1,4 @@
-# Remotion video
+# 🎬 AI Video Showcase  
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
@@ -9,7 +9,6 @@
   </a>
 </p>
 
-# 🎬 AI Video Showcase  
 ## "Video is Engineered."
 
 Bu proje, Remotion (TypeScript) kullanılarak geliştirilmiş, tamamen kod ile üretilen dinamik ve profesyonel bir video case study çalışmasıdır.
