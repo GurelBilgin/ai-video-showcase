@@ -288,7 +288,7 @@ npx remotion render AIShowcaseMaster out/video.mp4
 
 Bu proje kapsamında üretilen nihai video çıktısı repository içerisinde yer almaktadır:
 
-/video.mp4
+video.mp4
 
 • Çözünürlük: 1920x1080 (Full HD)  
 • Süre: ~70 saniye  
