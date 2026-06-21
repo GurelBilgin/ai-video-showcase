@@ -327,3 +327,7 @@ Veri ile dinamik hale getirilebilir.
 Sistem olarak ölçeklenebilir.
 
 Video is Engineered.
+
+# Hazırlayan
+
+Gürel BİLGİN
