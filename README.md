@@ -330,4 +330,4 @@ Video is Engineered.
 
 # Hazırlayan
 
-Gürel BİLGİN
+- Gürel BİLGİN
